@@ -1,0 +1,8 @@
+h1, h3, p {font-family: sans-serif; color: black}
+header
+{
+  background-color: lightblue;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
